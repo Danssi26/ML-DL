@@ -14,8 +14,8 @@
 
 ## 12월 셋째주
 * Ensemble Learning
-** 배깅
-** 에이다부스트
+* 배깅
+* 에이다부스트
 
 ## 12월 둘째주
 * Model Performance
