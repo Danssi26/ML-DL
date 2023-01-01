@@ -12,7 +12,7 @@
 * 매주 수요일 발표담당을 정하여 기법 개념 및 코드 발표
 
 ## 23년도 1월 첫째주
-* k-means
+* K-means clustering
 * hierarchical clustering
 
 ## 12월 셋째주
