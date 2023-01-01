@@ -11,6 +11,9 @@
 * 면접 문제 답변하여 스터디 노션에 인증
 * 매주 수요일 발표담당을 정하여 기법 개념 및 코드 발표
 
+## 23년도 1월 첫째주
+* k-means
+* hierarchical clustering
 
 ## 12월 셋째주
 * Ensemble Learning
