@@ -1,6 +1,6 @@
 # ML-DL
 
-**데잇걸즈 6기 ML&DL 스터디 기록 레퍼지토리**  
+**ML&DL 스터디 기록 레퍼지토리**  
 22.11.23 ~ 
 
 ## 스터디 진행
@@ -17,12 +17,12 @@
 
 ## 23년도 1월 첫째주
 * K-means clustering
-* hierarchical clustering
+* Hierarchical clustering
 
 ## 12월 셋째주
 * Ensemble Learning
-* 배깅
-* 에이다부스트
+* Bagging
+* AdaBoost
 
 ## 12월 둘째주
 * Model Performance
