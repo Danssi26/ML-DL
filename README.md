@@ -19,11 +19,11 @@
 * GAN
 
 ## 2월 첫째주
+* RNN
 * Transformer
 
 ## 1월 넷째주
 * CNN
-* RNN
 
 ## 1월 둘째주
 * Decision Tree
